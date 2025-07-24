@@ -1,9 +1,2 @@
----
-title: "Bind SQLI with delay erros"
-date: 2025-07-23
-tags: [SQLI, Python]
----
-
-Esta es la descripcion del laboratorio
-
-
+Esta es la informacion que nos daban antes de realizar el laboratorio
+![Descripción de la imagen](descripcion.png)
