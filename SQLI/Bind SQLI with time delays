@@ -1,1 +1,10 @@
-prueba
+---
+title: "Bind SQLI with time delays
+date: 2025-07-23
+tags: [SQLI, Web Hacking, PortSwigger]
+---
+
+
+Descripcion del laboratorio:
+
+![Bind SQLI with time delays] (images/descripcion.png)
