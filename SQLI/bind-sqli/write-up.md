@@ -13,7 +13,7 @@ Asi que una vez probado eso, capture el trafico con burpsuite y empece a probar 
 
 Estuve probando varias cosas como ' or 1=1 lo cual me devolvia un 200 de codigo de estado pero al hacer un ' or 2=1 tambien me devolvia un 200 de codigo de estado, asi que empece a probar sentencias basandose en el tiempo de espera de la pagina para ver si me las pillaba bien
 
-![3].(3.png)
+![3](3.png)
 
 
 
