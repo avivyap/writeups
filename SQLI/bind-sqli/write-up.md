@@ -39,7 +39,23 @@ Una vez que ya me sabia el primer carácter de la contraseña, me scripteé un a
 
 ![script](script.png)
 
+En resumen el script hace una peticion al servidor con la cookie de sesion y va pasando por cada posicion del 1 al 20 (por que anteriormente sacamos que la contraseña tenia 20 carácteres) y cuando en la posicion x la letra que toque hace que la pagina tarde 5 seg en devolver una respuesta, significa que para esa posicion es esa letra concreta
 
+![8](8.png)
+
+Este es el script arrancando y sacando como primer simbolo un '5' que es lo que habiamos sacado antes con la peticion que le habia hecho en burpsuite
+
+![9](9.png)
+
+Y esta es la contraseña finalmente reportada por nuestro script
+
+Ahora nos vamos al laboratorio e intentamos iniciar sesion como el usuario 'administrator'
+
+![10](10.png)
+
+Y ahi nos sale el mensaje de laboratorio finalizado
+
+![11](11.png)
 
 
 
